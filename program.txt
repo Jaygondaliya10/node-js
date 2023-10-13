@@ -1,0 +1,13 @@
+install  -->>  npx express-generator -e
+
+create model and controller 
+
+install mongoose 
+
+https://code.tutsplus.com/file-upload-with-multer-in-node--cms-32088t //use this website for 
+
+
+
+
+
+email password :  oppnsgqpeixkrduo
