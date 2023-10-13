@@ -11,7 +11,7 @@ var http = require('http');
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://jaygondaliya:Jay@2210@cluster0.ittmgkb.mongodb.net/')
+mongoose.connect('mongodb://127.0.0.1:27017/practice')
   .then(() => console.log('Connected!'));
 /**
  * Get port from environment and store in Express.
