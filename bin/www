@@ -8,6 +8,8 @@ var app = require('../app');
 var debug = require('debug')('send-images:server');
 var http = require('http');
 
+var url = "mongodb + srv://GondaliyaJay:Jay@2210@cluster0.ittmgkb.mongodb.net/?retryWrites=true&w=majority";
+
 
 const mongoose = require('mongoose');
 
